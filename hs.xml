@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<students>
+    <student>
+        <id>1</id>
+        <name>la truong hoang phat</name>
+        <address>quang ngai</address>
+        <dateOfBirth>05</dateOfBirth>
+    </student>
+    <student>
+        <id>2</id>
+        <name>minh hang</name>
+        <address>sai gon</address>
+        <dateOfBirth>08</dateOfBirth>
+    </student>
+</students>
